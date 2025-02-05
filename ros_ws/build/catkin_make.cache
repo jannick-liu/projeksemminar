@@ -1,0 +1,2 @@
+geo_local_planner:obstacle_detector:panther_description:panther_gazebo:panther_simulation:ros_components_description
+-DCATKIN_DEVEL_PREFIX=/home/hao/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hao/ros_ws/install -G Unix Makefiles

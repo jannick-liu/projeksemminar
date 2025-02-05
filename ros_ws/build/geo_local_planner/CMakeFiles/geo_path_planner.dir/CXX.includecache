@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hao/ros_ws/src/geo_local_planner/scripts/geo_path_planner.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+iomanip
+-
+cmath
+-
+casadi/casadi.hpp
+-
+vector
+-
+

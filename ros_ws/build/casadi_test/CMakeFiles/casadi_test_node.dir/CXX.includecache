@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hao/ros_ws/src/casadi_test/src/casadi_test.cpp
+iostream
+-
+vector
+-
+casadi/casadi.hpp
+-
+

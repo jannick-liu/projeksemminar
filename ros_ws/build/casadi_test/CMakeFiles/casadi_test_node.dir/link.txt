@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/casadi_test_node.dir/src/casadi_test.cpp.o  -o casadi_test_node  -lcasadi 

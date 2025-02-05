@@ -1,0 +1,8 @@
+prefix=/home/hao/ros_ws/install
+
+Name: homing_local_planner
+Description: Description of homing_local_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: base_local_planner costmap_2d dynamic_reconfigure geometry_msgs message_runtime nav_core nav_msgs pluginlib roscpp std_msgs tf2 tf2_ros visualization_msgs
